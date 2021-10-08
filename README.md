@@ -4,7 +4,7 @@
 
 Link to Deployed App:
 
-https://gracious-mcclintock-d97965.netlify.app/
+https://employeedirectory101010.netlify.app/
 
   ## Description
   
@@ -30,7 +30,7 @@ https://gracious-mcclintock-d97965.netlify.app/
   
   Please follow the link to the video:
   
-  https://drive.google.com/file/d/1oU3BRuTBZRTF-A1yHRfV9JnDDbYG899g/view
+  https://drive.google.com/file/d/1V5DMBjs6pIo1uOcDml1hFDFQS9g6p9eO/view?usp=sharing
  
   
   ## 🛠️Installation🛠️
